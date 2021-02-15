@@ -1,0 +1,3 @@
+D:\MY PROJECT\DataBaseImitation-in-C-main\Team\Debug\Team.exe
+D:\MY PROJECT\DataBaseImitation-in-C-main\Team\Debug\Team.pdb
+D:\MY PROJECT\DataBaseImitation-in-C-main\Debug\Team.pdb

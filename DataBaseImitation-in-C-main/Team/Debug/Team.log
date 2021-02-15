@@ -1,0 +1,7 @@
+﻿  Main.c
+D:\DataBases\Team\Team\Player.h(132,19): warning C4013: TryUpdateTeamData: нет определения; предполагается "extern" с возвратом типа "int"
+D:\DataBases\Team\Team\Manager.h(27,29): warning C4018: >: несоответствие типов со знаком и без знака
+D:\DataBases\Team\Team\Manager.h(93,21): warning C4013: TryGetTeamData: нет определения; предполагается "extern" с возвратом типа "int"
+D:\DataBases\Team\Team\Main.c(117,38): warning C4020: TryUpdatePlayerData: слишком много фактических параметров
+D:\DataBases\Team\Team\Player.h(205): warning C4716: DeletePlayerData: должна возвращать значение
+  Team.vcxproj -> D:\DataBases\Team\Debug\Team.exe
